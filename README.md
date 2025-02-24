@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante na Etec de Embu<br>- Técnico em Redes de Computadores<br>- Técnico em Desenvolvimento de Sistemas</p>
+<p align="left">- Técnico em Redes de Computadores<br>- Cursando Técnico em Desenvolvimento de Sistemas na ETEC de Embu</p>
 
 ###
 
